@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+
+\bibitem{BOOK}
+{\sc Du, D., and Hu, X.}
+\newblock Steiner tree problems in computer communication networks, 2008.
+
+\bibitem{NP}
+{\sc Karp, R.}
+\newblock Reducability among combinatorial problems, 1975.
+
+\bibitem{MST}
+{\sc Mehlhorn, K.}
+\newblock A faster approximation algorithm for the steiner problem in graphs,
+  1988.
+
+\end{thebibliography}

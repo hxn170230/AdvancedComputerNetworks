@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Steiner Minimum Tree}{1}
+\contentsline {section}{\numberline {2}Approximation by MST}{2}
+\contentsline {subsection}{\numberline {2.1}Algorithm}{2}
+\contentsline {subsection}{\numberline {2.2}Example}{3}
+\contentsline {subsection}{\numberline {2.3}Complexity}{4}
+\contentsline {section}{\numberline {3}Steiner Tree for Network Graph}{4}
+\contentsline {subsection}{\numberline {3.1}Data Structures at each node}{4}
+\contentsline {section}{\numberline {4}Implementation of Steiner Tree}{5}
+\contentsline {subsection}{\numberline {4.1}Definitions and declarations}{5}
+\contentsline {subsection}{\numberline {4.2}Implementation of the functions}{7}
+\contentsline {subsection}{\numberline {4.3}Test Results}{17}

@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: SteinerTreeForNetworkGraph.aux
+The style file: acm.bst
+Database file #1: references.bib
+You've used 3 entries,
+            2253 wiz_defined-function locations,
+            547 strings with 4326 characters,
+and the built_in function-call counts, 664 in all, are:
+= -- 54
+> -- 26
+< -- 0
++ -- 12
+- -- 8
+* -- 30
+:= -- 111
+add.period$ -- 6
+call.type$ -- 3
+change.case$ -- 13
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 24
+empty$ -- 70
+format.name$ -- 8
+if$ -- 139
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 0
+newline$ -- 15
+num.names$ -- 6
+pop$ -- 28
+preamble$ -- 1
+purify$ -- 10
+quote$ -- 0
+skip$ -- 24
+stack$ -- 0
+substring$ -- 16
+swap$ -- 6
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 12
+warning$ -- 0
+while$ -- 6
+width$ -- 4
+write$ -- 26
